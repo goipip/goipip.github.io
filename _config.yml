@@ -3,7 +3,6 @@ title: goipip全球账号
 SEOTitle: goipip | tiktok | facebook | apple id | instagram | 短视频剪辑 | 混剪工具 | whatsApp | talkatone | giffgaff | 紫卡
 header-img: img/post-bg-desk.jpg
 email: pazsnelgrove@gmail.com
-微信: goipip360
 description: "出售全球账号.海外电话卡.以及分享各种剪辑混剪工具.tiktok工具电商信息"
 keyword: "tiktok, facebook, 短视频剪辑, 混剪工具, goipip, appleid, Telegram, whatsApp, talkatone, giffgaff, 紫卡"
 url: "http://goipip.github.io"          # your host, for absolute URL
@@ -32,7 +31,7 @@ facebook_username:  61560232924767
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 10
+paginate: 20
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
