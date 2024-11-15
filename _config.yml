@@ -18,12 +18,12 @@ sidebar-avatar: /img/goipip_avatar.jpg      # use absolute URL, seeing it's used
 
 # SNS settings
 RSS: false
-weibo_username:     http://goipip.cn
-zhihu_username:     http://goipip.cn
-github_username:    http://goipip.cn
-facebook_username:  http://goipip.cn
-jianshu_username:   http://goipip.cn
-twitter_username:   http://goipip.cn
+# weibo_username:     http://goipip.cn
+# zhihu_username:     http://goipip.cn
+# github_username:    http://goipip.cn
+# facebook_username:  http://goipip.cn
+# jianshu_username:   http://goipip.cn
+# twitter_username:   http://goipip.cn
 
 
 
