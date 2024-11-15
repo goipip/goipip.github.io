@@ -12,7 +12,7 @@ github_repo: "https://github.com/goipip/goipip.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "出售全球账号.海外电话卡.以及分享各种剪辑混剪工具.tiktok工具海外电商信息!"
-sidebar-avatar: /img/goipip.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/goipip_avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
